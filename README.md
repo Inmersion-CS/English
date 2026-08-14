@@ -4,7 +4,7 @@ Open-source web learning environment for English with a focus on computing and a
 
 > **Status:** Foundation v0.1. Full reading/listening modules, speaking activities, writing feedback, vocabulary systems, and assessments are roadmap items, not implemented features yet.
 
-**Live site target:** https://inmersion-cs.github.io/English/
+**Live site:** https://inmersion-cs.github.io/English/
 
 ## Why this project exists
 
